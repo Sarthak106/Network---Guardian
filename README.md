@@ -16,9 +16,7 @@ Network Guardian is a real-time network traffic monitoring and packet analysis t
 
 ## 🛠️ Tech Stack
 - Python  
-- :contentReference[oaicite:0]{index=0}  
-- Socket Programming  
-- :contentReference[oaicite:1]{index=1}  
+- Socket Programming 
 - Matplotlib  
 - Pandas  
 - Colorama  
@@ -37,7 +35,7 @@ NetworkGuardian/
 
 ## ⚙️ Installation
 Clone repository:  
-git clone https://github.com/Sarthak106/network-guardian.git  
+git clone https://github.com/Sarthak106/Network-Guardian---Packet-Sniffing-Tool.git
 cd network-guardian  
 
 Create virtual environment (optional):  
